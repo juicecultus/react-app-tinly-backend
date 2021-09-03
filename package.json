@@ -25,7 +25,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "mongoose": "^5.8.11",
-    "mpath": "^0.6.0",
+    "mpath": "^0.8.4",
     "winston": "^2.4.4",
     "winston-mongodb": "^5.0.1"
   },
